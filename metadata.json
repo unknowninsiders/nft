@@ -1,7 +1,7 @@
 {
   "name": "My NFT",
   "symbol": "",
-  "uri": "https://example.com/metadata.json",
+  "uri": "https://github.com/unknowninsiders/nft/blob/main/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": null
 }
